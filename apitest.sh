@@ -1,0 +1,1 @@
+curl -svq 'https://api.openweathermap.org/data/2.5/weather?q=Auckland&appid=53ceb875c177aab8f9e62a7374c3e5fc' | jq .
